@@ -68,3 +68,33 @@ a{
     text-decoration: none;
     color: tomato;
 }
+
+
+
+
+
+
+@media (max-width: 500px){
+.inner-section1{
+width: 100%;
+}
+.container{
+width:90%;
+}
+.content-cont{
+width:100%;
+}
+input{
+width:150px;
+}
+button{
+width:100px;
+}
+h2{
+font: 20px;
+}
+p{
+font:15px;
+}
+}
+
